@@ -1,0 +1,25 @@
+body{
+   display: flex;
+   background-color: rgb(202, 202, 234);
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main{
+    margin-left: 50px;
+}
+
+header{
+    background-color: pink;
+}
+
+header li{
+    margin: 20px;
+    padding: 20px;
+    display: block;
+    background-color: rgb(243, 146, 243);
+}
+
+img{
+    box-shadow: 0   10px 20px black;
+}
+
